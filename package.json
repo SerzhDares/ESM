@@ -1,0 +1,26 @@
+{
+  "name": "game",
+  "version": "1.0.0",
+  "description": "game",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "live-server src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SerzhDares/ESM.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "Serzh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SerzhDares/ESM/issues"
+  },
+  "homepage": "https://github.com/SerzhDares/ESM#readme",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
